@@ -6,11 +6,6 @@
 </p>
 
 <p align="center">
-  <strong>Aplikasi Website Sekolah Berbasis Laravel</strong><br>
-  Praktikum Pemrograman Berbasis Web — Pertemuan 5
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/PHP-8.2%2B-777BB4?logo=php&logoColor=white" alt="PHP 8.2+">
   <img src="https://img.shields.io/badge/Laravel-12-FF2D20?logo=laravel&logoColor=white" alt="Laravel 12">
   <img src="https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4">
