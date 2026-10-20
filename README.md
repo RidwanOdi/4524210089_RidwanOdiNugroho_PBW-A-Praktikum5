@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind CSS v4">
   <img src="https://img.shields.io/badge/Project-Praktikum-blue" alt="Project Praktikum">
 </p>
----
+----
 
 ## 📋 Identitas Mahasiswa
 
